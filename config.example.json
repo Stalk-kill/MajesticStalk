@@ -1,0 +1,8 @@
+{
+  "guild_id": "YOUR_GUILD_ID",
+  "channel_id": "ACCESS_CHANNEL_ID",
+  "role_to_give": "ROLE_ID",
+  "role_audit_channel_id": "AUDIT_CHANNEL_ID",
+  "audit_channel_id": "JOIN_LEAVE_CHANNEL_ID",
+  "moderator_roles": ["MOD_ROLE_ID_1","MOD_ROLE_ID_2","MOD_ROLE_ID_3"]
+}
